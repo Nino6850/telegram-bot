@@ -91,7 +91,7 @@ VK_COOKIES=your-vk-cookies
 После настройки запустите бота командой:
 
 ```bash
-python bot.py
+python bootstrap.py
 ```
 
 ---
