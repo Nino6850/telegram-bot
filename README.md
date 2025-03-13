@@ -23,5 +23,5 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Nino6850/telegram-bot.git
    cd telegram-media-downloader-bot
